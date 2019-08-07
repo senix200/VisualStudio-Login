@@ -1,6 +1,6 @@
 # VisualStudio-Login
 
-Programa con pantalla de inicio ded sesion, registro de cuentas nuevas y recuperación de cuentas nuevas programado con C# haciendo uso de Visual Studio y con bases de datos.
+Programa con pantalla de inicio de sesion, registro de cuentas nuevas y recuperación de cuentas nuevas programado con C# haciendo uso de Visual Studio y con bases de datos.
 
 ## Comenzando 🚀
 
